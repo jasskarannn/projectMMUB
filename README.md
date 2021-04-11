@@ -1,2 +1,2 @@
 # projectMMUB
-Web Scrapping, Automation on websites and email exchange
+Web Scrapping, Automation on websites and email contact upon successful termination.
